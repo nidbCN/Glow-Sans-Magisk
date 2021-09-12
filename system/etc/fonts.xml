@@ -299,7 +299,7 @@
         </font>
         <font weight="400" style="normal" fallbackFor="serif">NotoSerifKhmer-Regular.otf</font>
         <font weight="700" style="normal" fallbackFor="serif">NotoSerifKhmer-Bold.otf</font>
-      </family>
+    </family>
     <family lang="und-Khmr" variant="compact">
         <font weight="400" style="normal">NotoSansKhmerUI-Regular.ttf</font>
         <font weight="700" style="normal">NotoSansKhmerUI-Bold.ttf</font>
@@ -535,6 +535,34 @@
     <family>
         <font weight="400" style="normal">NotoSansSymbols-Regular-Subsetted.ttf</font>
     </family>
+
+    <family lang="zh-Hans">
+        <font weight="100" style="normal">GlowSansSC-Normal-Thin.otf</font>
+        <font weight="300" style="normal">GlowSansSC-Normal-Light.otf</font>
+        <font weight="400" style="normal">GlowSansSC-Normal-Regular.otf</font>
+        <font weight="500" style="normal">GlowSansSC-Normal-Medium.otf</font>
+        <font weight="900" style="normal">GlowSansSC-Normal-Heavy.otf</font>
+        <font weight="700" style="normal">GlowSansSC-Normal-Bold.otf</font>
+    </family>
+
+    <family lang="zh-Hant zh-Bopo">
+        <font weight="100" style="normal">GlowSansTC-Normal-Thin.otf</font>
+        <font weight="300" style="normal">GlowSansTC-Normal-Light.otf</font>
+        <font weight="400" style="normal">GlowSansTC-Normal-Regular.otf</font>
+        <font weight="500" style="normal">GlowSansTC-Normal-Medium.otf</font>
+        <font weight="900" style="normal">GlowSansTC-Normal-Heavy.otf</font>
+        <font weight="700" style="normal">GlowSansTC-Normal-Bold.otf</font>
+    </family>
+
+    <family lang="ja">
+        <font weight="100" style="normal">GlowSansJ-Normal-Thin.otf</font>
+        <font weight="300" style="normal">GlowSansJ-Normal-Light.otf</font>
+        <font weight="400" style="normal">GlowSansJ-Normal-Regular.otf</font>
+        <font weight="500" style="normal">GlowSansJ-Normal-Medium.otf</font>
+        <font weight="900" style="normal">GlowSansJ-Normal-Heavy.otf</font>
+        <font weight="700" style="normal">GlowSansJ-Normal-Bold.otf</font>
+    </family>
+
     <family lang="zh-Hans">
         <font weight="400" style="normal" index="2">NotoSansCJK-Regular.ttc</font>
         <font weight="400" style="normal" index="2" fallbackFor="serif">NotoSerifCJK-Regular.ttc</font>
