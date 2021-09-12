@@ -12,6 +12,16 @@ A SHSans-derived font family with a more concise & modern look.
 
 本模块引用了MIT协议开源的未来荧黑字体。
 
+## Screenshots 截屏
+
+![pic1](https://raw.githubusercontent.com/nidbCN/Glow-Sans-Magisk/master/Screenshots/pic1.png)
+
+![pic2](https://raw.githubusercontent.com/nidbCN/Glow-Sans-Magisk/master/Screenshots/pic2.png)
+
+Screenshots was taken on LineageOS 16.0, Redmi 4X.
+
+截屏于 LineageOS, 红米4X。
+
 ## Installation 安装
 
 Click "Install from local" in Magisk and select this zip file.
