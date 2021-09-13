@@ -8,6 +8,9 @@ A SHSans-derived font family with a more concise & modern look.
 
 基于思源黑体改造，更加现代简明的超大字体家族。
 
+> ATTENTION: MIUI IS NOT SUPPORTED.
+> 注意：不支持 MIUI。
+
 > This module include Glow Sans, which open source under MIT license. 
 
 本模块引用了MIT协议开源的未来荧黑字体。
