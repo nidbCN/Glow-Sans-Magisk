@@ -13,7 +13,7 @@ A SHSans-derived font family with a more concise & modern look.
 
 > This module include Glow Sans, which open source under MIT license. 
 
-本模块引用了MIT协议开源的未来荧黑字体。
+> 本模块引用了MIT协议开源的未来荧黑字体。
 
 ## Screenshots 截屏
 
